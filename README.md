@@ -1,5 +1,5 @@
-# [TabChi](http://yon.ir/4cR3)
+# [TabChi](https://t.me/MrHacker127)
 * **Install Bot**
 `````sh
-yon.ir/4cR3
+https://t.me/MrHacker127
 `````
